@@ -1,6 +1,6 @@
 # gitpush
 
-CLICK THE <img width="300" alt="Screen Shot 2022-08-24 at 1 19 40 PM" src="https://user-images.githubusercontent.com/64296554/187273150-aae5c87a-c93a-417f-9198-fc35fc6b75e6.png">
+CLICK THE 
 FORK BUTTON ON THE TOP RIGHT OF THE PAGE.
 
 <img width="138" alt="Screen Shot 2022-08-04 at 8 04 31 PM" src="https://user-images.githubusercontent.com/64296554/182976568-0a851a0a-a07d-4b01-935a-ce2a190b652b.png">
